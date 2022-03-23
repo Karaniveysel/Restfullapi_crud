@@ -12,11 +12,6 @@ public class CrudDbRestfulApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CrudDbRestfulApplication.class, args);
-
-	   log.debug("fatih");
-		log.info("Info");
-		System.out.print("bbbb");
-		
 	}
 
 }
